@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/graham42/jss-css-loader/issues"
   },
-  "homepage": "https://github.com/graham42/jss-css-loader#readme"
+  "homepage": "https://github.com/graham42/jss-css-loader#readme",
+  "devDependencies": {
+    "jss-css": "^3.0.0"
+  },
+  "peerDependencies": {
+    "jss-css": "^3.0.0"
+  }
 }
