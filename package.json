@@ -1,0 +1,24 @@
+{
+  "name": "jss-css-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for css files to jss objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graham42/jss-css-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "jss",
+    "css-in-js"
+  ],
+  "author": "Graham McGregor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graham42/jss-css-loader/issues"
+  },
+  "homepage": "https://github.com/graham42/jss-css-loader#readme"
+}
