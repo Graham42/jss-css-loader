@@ -4,7 +4,7 @@
   "description": "A webpack loader for css files to jss objects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,12 @@
   },
   "homepage": "https://github.com/graham42/jss-css-loader#readme",
   "devDependencies": {
-    "jss-css": "^3.0.0"
+    "babel-jest": "^22.4.1",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.2",
+    "jss-css": "^3.0.0",
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.1.1"
   },
   "peerDependencies": {
     "jss-css": "^3.0.0"

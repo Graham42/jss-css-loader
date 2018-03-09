@@ -1,9 +1,3 @@
-const css = require("jss-css/lib/css");
+const loader = require("./src/loader");
 
-module.exports = function(source) {
-  let jss = css`
-    ${source};
-  `;
-  let result = `export default ${JSON.stringify(jss, null, 2)}`;
-  return result;
-};
+module.exports = loader;
