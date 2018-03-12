@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A webpack loader for css files to jss objects",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "src/loader.js"
+  ],
   "scripts": {
     "test": "jest"
   },
