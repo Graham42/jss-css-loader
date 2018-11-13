@@ -28,7 +28,7 @@
   "devDependencies": {
     "babel-jest": "^22.4.1",
     "babel-preset-env": "^1.6.1",
-    "jest": "^22.4.2",
+    "jest": "^23.6.0",
     "jss-css": "^3.0.0",
     "memory-fs": "^0.4.1",
     "webpack": "^4.25.1"
