@@ -1,6 +1,6 @@
 {
   "name": "jss-css-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A webpack loader for css files to jss objects",
   "main": "index.js",
   "files": [
