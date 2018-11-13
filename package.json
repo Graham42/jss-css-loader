@@ -31,7 +31,7 @@
     "jest": "^22.4.2",
     "jss-css": "^3.0.0",
     "memory-fs": "^0.4.1",
-    "webpack": "^4.1.1"
+    "webpack": "^4.25.1"
   },
   "peerDependencies": {
     "jss-css": "^3.0.0"
